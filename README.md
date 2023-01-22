@@ -1,7 +1,7 @@
 - Hej, jestem @ciszynskiadam
 - Interesuję się wieloma dziedzinami nauki. Od dziecka pasjonuje mnie biologia, jednak z wielkim zainteresowaniem uczę się również programować.
 - Aktualnie studiuję Inżynierię Biomedyczną. W czasie wolnym staram się poszerzać swoje umiejętności programistyczne i wykorzystywać je w spełnianiu swoich celów.
-- Aktualnie największe doświadczenie mam z językiem Python, jednak zdarzało mi się pracować również w C#.
+- Aktualnie największe doświadczenie mam z językiem Python, uczę się również Javy i miałem styczność z C#.
 - Zawsze można się ze mną skontaktować, wysyłając wiadomość na adres email: ciszynskipraca@gmail.com
 
 
